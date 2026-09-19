@@ -1,8 +1,8 @@
 /*
 
-    Tooplate 2170 Aperture
+    Tooplate 2170 yashaswini
 
-    https://www.tooplate.com/view/2170-aperture
+    https://www.tooplate.com/view/2170-yashaswini
 
     Free HTML CSS Template
 
